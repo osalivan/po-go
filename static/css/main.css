@@ -2033,6 +2033,12 @@ html, body {
   top: 3.5em;
   bottom: 0px;
   width: 100%; }
+#ads {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    position: 0 auto;
+    z-index: 5000; }
 
 /* Footer */
 #footer {
