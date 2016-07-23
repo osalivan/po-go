@@ -2038,6 +2038,8 @@ html, body {
     bottom: 0px;
     width: 3320px;
     height: 100px;
+    margin-left: auto ;
+    margin-right: auto ;
     z-index: 5000; }
 
 /* Footer */
