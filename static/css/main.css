@@ -2036,9 +2036,8 @@ html, body {
 #ads {
     position: absolute;
     bottom: 0px;
-    width: 100%;
+    width: 3320px;
     height: 100px;
-    margin: 0 auto;
     z-index: 5000; }
 
 /* Footer */
